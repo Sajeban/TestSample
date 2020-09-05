@@ -12,8 +12,8 @@ public class Test {
     public int addNumbers(int a,int b){
         return a+b;
     }
+
     int findAverage(int total, int numberOfSubjects){
         return total/numberOfSubjects;
     }
-
 }
