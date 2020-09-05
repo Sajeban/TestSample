@@ -6,4 +6,8 @@ public class Test {
     void print(String statement) {
         System.out.println(statement);
     }
+
+    public int addNumbers(int a,int b){
+        return a+b;
+    }
 }
